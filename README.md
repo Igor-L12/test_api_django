@@ -33,7 +33,7 @@
     "title": "Название объявления",
     "ad_id": "12345678",
     "author": "Author",
-    "views": null,
+    "views": 100,
     "position": 1
 }
 ```
