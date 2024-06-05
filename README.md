@@ -38,18 +38,18 @@
 }
 ```
 ### Админ-панель:
-![dj_admin](test_api_django\test_api_service\img_test\dj_admin.png)
+![dj_admin](test_api_service/img_test/dj_admin.png)
 
 ### Авторизация:
-![auth](test_api_django\test_api_service\img_test\auth.png)
+![auth](test_api_service/img_test/auth.png)
 
 ### Запрос без авторизации:
-![false_auth](test_api_django\test_api_service\img_test\false_get.png)
+![false_auth](test_api_service/img_test/false_get.png)
 
 ### Пример 1:
-![first](test_api_django\test_api_service\img_test\first_example.png)
+![first](test_api_service/img_test/first_example.png)
 
 ### Пример 2:
-![second](test_api_django\test_api_service\img_test\second_example.png)
+![second](test_api_service/img_test/second_example.png)
 
 Автор: [Игорь Любаев](https://github.com/Igor-L12)
